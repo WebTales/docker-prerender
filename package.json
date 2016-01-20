@@ -4,7 +4,7 @@
   "description": "Dockerfile to build the prerender container image",
   "main": "server.js",
   "dependencies": {
-    "prerender": "git://github.com:Lochlan/prerender.git"
+    "prerender": "git://github.com/Lochlan/prerender.git#phantomjs2"
   },
   "devDependencies": {},
   "scripts": {
