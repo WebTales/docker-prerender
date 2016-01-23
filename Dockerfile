@@ -1,4 +1,4 @@
-FROM node:4-onbuild
+FROM node:latest
 
 MAINTAINER Corentin Kerisit "c@42.am"
 
